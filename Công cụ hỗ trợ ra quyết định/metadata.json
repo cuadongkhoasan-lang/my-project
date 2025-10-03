@@ -1,5 +1,0 @@
-{
-  "name": "Clinical Decision Support Tools",
-  "description": "An interactive set of tools to help medical professionals with clinical decisions. Includes an assessment for ectopic pregnancy medical management and a Bishop score calculator for labor induction prediction.",
-  "requestFramePermissions": []
-}
